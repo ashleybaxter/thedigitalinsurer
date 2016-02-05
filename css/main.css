@@ -46,3 +46,38 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+.wrap {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.site-header {
+  padding-top: 60px;
+}
+  .site-header h1 {
+    font-size: 300%;
+  }
+  .site-header p {
+    padding-top: 15px;
+  }
+
+.companies li {
+  padding: 40px;
+}
+  .companies li:first-child {
+    padding-bottom: 0;
+  }
+  .companies li:last-child {
+    padding-top: 0;
+  }
+
+.site-footer {
+  text-align: center;
+}

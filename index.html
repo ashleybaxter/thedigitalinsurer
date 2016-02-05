@@ -2,10 +2,10 @@
 layout: default
 ---
 <div class="grid">
-  <div class=" grid__col grid__col--3-of-3">
+  <div class="grid__col grid__col--3-of-3">
   <ul class="companies">
   {% for company in site.data.companies %}
-    <li>{{ company.name }}</li>
+    <li><a href="{{ company.url }}">{{ company.name }}</a></li>
   {% endfor %}
   </ul>
   </div>
