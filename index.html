@@ -1,3 +1,9 @@
 ---
 layout: default
 ---
+
+<ul>
+{% for company in site.data.companies %}
+    <li>{{ company.name }}</li>
+{% endfor %}
+</ul>

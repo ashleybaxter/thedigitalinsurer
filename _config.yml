@@ -8,7 +8,7 @@
 # Site settings
 title: The Digital Insurer
 email: hello@insurancebyjack.co.uk
-description: UK insurance companies that are doing interesting things with technology
+description: UK insurance companies doing interesting things with technology
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thedigitalinsurer.co.uk" # the base hostname & protocol for your site
 twitter_username: insurancebyjack
