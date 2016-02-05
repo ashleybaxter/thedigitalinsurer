@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
-
-<ul>
-{% for company in site.data.companies %}
+<div class="grid">
+  <div class=" grid__col grid__col--3-of-3">
+  <ul class="companies">
+  {% for company in site.data.companies %}
     <li>{{ company.name }}</li>
-{% endfor %}
-</ul>
+  {% endfor %}
+  </ul>
+  </div>
+</div>
