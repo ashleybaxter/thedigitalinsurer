@@ -30,6 +30,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
   line-height: 1;
+  font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
+  font-size: 120%;
 }
 ol, ul {
   list-style: none;
@@ -53,6 +55,10 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+h1 {
+  font-family: 'Helvetica Neue'
+}
+
 .wrap {
   width: 1000px;
   margin: 0 auto;
@@ -69,7 +75,7 @@ html {
   }
 
 .companies li {
-  padding: 40px;
+  padding: 80px;
 }
   .companies li:first-child {
     padding-bottom: 0;
