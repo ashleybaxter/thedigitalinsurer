@@ -1,18 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+baseurl: 		""
+title: 			The Digital Insurer
 
-# Site settings
-title: The Digital Insurer
-email: hello@insurancebyjack.co.uk
-description: UK insurance companies doing interesting things with technology
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://thedigitalinsurer.co.uk" # the base hostname & protocol for your site
-twitter_username: insurancebyjack
-github_username:  ashleybaxter
+name: 			The Digital Insurer
+description: 	UK insurance companies doing interesting things with technology
+url: 			"http://thedigitalinsurer.co.uk"
 
-# Build settings
-markdown: kramdown
+twitter: 		insurancebyjack
+email: 			hello@insurancebyjack.co.uk
+
+analytics: 		UA-XXXXXXX-Y
+
+permalinks: 	pretty

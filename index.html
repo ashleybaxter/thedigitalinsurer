@@ -1,12 +1,9 @@
 ---
-layout: default
+
+layout:     default
+title:      Why Jekyll rocks
+type:       home
+navigation: true
+gradient:   1
+
 ---
-<div class="grid">
-  <div class="grid__col grid__col--3-of-3">
-  <ul class="companies">
-  {% for company in site.data.companies %}
-    <li><a href="{{ company.url }}">{{ company.name }}</a></li>
-  {% endfor %}
-  </ul>
-  </div>
-</div>
