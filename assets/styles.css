@@ -399,7 +399,7 @@ body > header {
 
     .content article .body .summary { padding-bottom: 34px; }
 
-    .summary li { list-style-type: none; background-color: black; height: 200px; }
+    .summary li { list-style-type: none; height: 200px; }
     .summary img { max-width: 150px; }
 
         .content article .body .summary:last-of-type { padding-bottom: 0; }

@@ -7,3 +7,9 @@ navigation: true
 gradient:   1
 
 ---
+
+<div class="summary">
+  {% for company in site.data.companies %}
+    <li><img src="/img/{{ company.image }}"></li>
+  {% endfor %}
+</div>
