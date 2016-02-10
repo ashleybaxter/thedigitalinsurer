@@ -27,7 +27,7 @@ b, strong { font-weight: 600 }
 i, em { font-style: italic }
 
 a {
-    color: #eb2344;
+    color: #FF6600;
     text-decoration: none; }
 
 a:hover, a:active, a:visited { opacity: 0.65 }
@@ -169,11 +169,9 @@ h5 {
 
 /* Gradients */
 .gradient-1 {
-    background-color: #a18cab;
-    background-image: -o-linear-gradient(-40deg, #0e153a 10%, #4a4c7b 35%, #a18cab 65%, #f3c9d7 90%);
-    background-image: -moz-linear-gradient(-40deg, #0e153a 10%, #4a4c7b 35%, #a18cab 65%, #f3c9d7 90%);
-    background-image: -ms-linear-gradient(-40deg, #0e153a 10%, #4a4c7b 35%, #a18cab 65%, #f3c9d7 90%);
-    background-image: linear-gradient(-130deg, #0e153a 10%, #4a4c7b 35%, #a18cab 65%, #f3c9d7 90%); }
+    background: #C02425;
+    background: -webkit-linear-gradient(to left, #f26722 , #F0CB35);
+    background: linear-gradient(to left, #f26722 , #F0CB35); }
 
 .gradient-2 {
     background-color: #8caba4;
@@ -656,6 +654,7 @@ body > footer {
         background: #f26722; }
 
     body > footer .copyright a { margin-left: 6px }
+    .copyright img { vertical-align: middle; }
 
 /* Syntax Highlighting */
 pre, code {

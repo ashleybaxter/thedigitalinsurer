@@ -10,7 +10,7 @@ gradient:   1
 
 <div class="summary">
   {% for company in site.data.companies %}
-    <p>{{ company.name }}<br />
+    <p><a href="{{ company.url }}">{{ company.name }}</a><br />
     	<span class="company-tagline">{{ company.tagline }}</span></p>
   {% endfor %}
 </div>
