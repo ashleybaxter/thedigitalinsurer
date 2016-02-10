@@ -1,7 +1,9 @@
 - name: Cuvva
   url: https://cuvva.co/
   image: cuvva.svg
+  tagline: Get insured for an hour (or more) on a friend's car
 
 - name: Guevara
   url: https://heyguevara.com/
   image: guevara.png
+  tagline: Pool your premiums online to save money on your car insurance

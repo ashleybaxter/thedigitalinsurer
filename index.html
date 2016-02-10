@@ -10,6 +10,7 @@ gradient:   1
 
 <div class="summary">
   {% for company in site.data.companies %}
-    <li><img src="/img/{{ company.image }}"></li>
+    <p>{{ company.name }}<br />
+    	<span class="company-tagline">{{ company.tagline }}</span></p>
   {% endfor %}
 </div>

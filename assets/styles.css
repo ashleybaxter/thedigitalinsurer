@@ -399,7 +399,9 @@ body > header {
 
     .content article .body .summary { padding-bottom: 34px; }
 
-    .summary li { list-style-type: none; height: 200px; }
+    .summary p { padding: 0 0 40px 0; }
+    .company-tagline { font-size: 80%; }
+    .site-tagline {color: white; padding-top: 25px; font-size: 80%;}
     .summary img { max-width: 150px; }
 
         .content article .body .summary:last-of-type { padding-bottom: 0; }
@@ -651,7 +653,7 @@ body > footer {
         position: absolute;
         left: 0;
         top: -15px;
-        background: #eb2344; }
+        background: #f26722; }
 
     body > footer .copyright a { margin-left: 6px }
 
