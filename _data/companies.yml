@@ -21,6 +21,14 @@
   url: https://www.heybrolly.com/
   tagline: Manage all your insurance policies in one place
 
+- name: CoVi Analytics
+  url: http://www.covianalytics.com/
+  tagline: Developing tools to make regulatory compliance a doddle
+
+- name: Inspool
+  url: http://inspool.com/
+  tagline: Car insurance that unites and rewards polite drivers
+
 - name: Bought By Many
   url: https://boughtbymany.com/
   tagline: Insurance made social
@@ -28,7 +36,3 @@
 - name: Quan Template
   url: https://www.quantemplate.com/
   tagline: SaaS for insurance reporting and analytics
-
-- name: CoVi Analytics
-  url: http://www.covianalytics.com/
-  tagline: Developing tools to make regulatory compliance a doddle
