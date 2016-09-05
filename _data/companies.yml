@@ -1,3 +1,8 @@
+- name: Jack
+  url: https://withjack.co.uk
+  image: jack.png
+  tagline: Business insurance on a first-name basis
+
 - name: Cuvva
   url: https://cuvva.co/
   image: cuvva.svg
@@ -7,11 +12,6 @@
   url: https://heyguevara.com/
   image: guevara.png
   tagline: Pool your premiums online to save money on your car insurance
-
-- name: Insurance by Jack
-  url: http://insurancebyjack.co.uk
-  image: jack.png
-  tagline: Business insurance on a first-name basis
 
 - name: The Floow
   url: http://www.thefloow.com/
@@ -36,3 +36,7 @@
 - name: Quan Template
   url: https://www.quantemplate.com/
   tagline: SaaS for insurance reporting and analytics
+
+- name: WeSavvy
+  url: http://wesavvy.com/
+  tagline: Get rewarded on your insurance policy when you walk, run or cycle
