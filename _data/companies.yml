@@ -3,6 +3,10 @@
   image: jack.png
   tagline: Business insurance on a first-name basis
 
+- name: Just Miles
+  url: http://www.justmiles.co.uk/
+  tagline: Car insurance done differently for low mileage drivers
+
 - name: Cuvva
   url: https://cuvva.co/
   image: cuvva.svg
