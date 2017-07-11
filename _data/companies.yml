@@ -3,6 +3,15 @@
   image: jack.png
   tagline: Business insurance on a first-name basis
 
+- name: In my Bag
+  url: https://inmybag.co/
+  tagline: The emergency service for mobile people
+
+- name: Flock
+  url: http://www.flockcover.com/
+  tagline: Pay-as-you-fly insurance for drones
+
+
 - name: Just Miles
   url: http://www.justmiles.co.uk/
   tagline: Car insurance done differently for low mileage drivers
