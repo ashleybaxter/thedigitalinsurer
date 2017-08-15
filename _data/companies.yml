@@ -3,6 +3,10 @@
   image: jack.png
   tagline: Business insurance on a first-name basis
 
+- name: RightIndem
+  url: https://rightindem.com
+  tagline: Insurance claims software. Claims made simple  
+
 - name: In my Bag
   url: https://inmybag.co/
   tagline: The emergency service for mobile people
