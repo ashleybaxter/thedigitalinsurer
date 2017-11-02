@@ -1,7 +1,11 @@
-- name: Jack
+- name: With Jack
   url: https://withjack.co.uk
   image: jack.png
   tagline: Business insurance on a first-name basis
+
+- name: Laka
+  url: https://laka.co.uk/
+  tagline: Bicycle Insurance that’s unlike anything you have seen before 
 
 - name: RightIndem
   url: https://rightindem.com
@@ -25,10 +29,9 @@
   image: cuvva.svg
   tagline: Get insured for an hour (or more) on a friend's car
 
-- name: Guevara
-  url: https://heyguevara.com/
-  image: guevara.png
-  tagline: Pool your premiums online to save money on your car insurance
+- name: Canopy
+  url: https://findyourcanopy.com/
+  tagline: Deposit free renting with Canopy
 
 - name: Wrisk
   url: http://www.wrisk.co/
@@ -65,3 +68,11 @@
 - name: Back Me Up
   url: https://www.backmeup.co.uk/
   tagline: No annual contract gadget insurance
+
+- name: Kinsu
+  url: https://kinsu.co.uk/
+  tagline: Insurance as it should be. No small print, no grey areas, no bullsh*t
+
+- name: Marshmallow
+  url: https://marshmallow.co/
+  tagline: Insurance for people who've moved to the UK  
