@@ -20,8 +20,8 @@
   tagline: Pay-as-you-fly insurance for drones
 
 
-- name: Just Miles
-  url: http://www.justmiles.co.uk/
+- name: By Miles
+  url: http://www.bymiles.co.uk/
   tagline: Car insurance done differently for low mileage drivers
 
 - name: Cuvva
@@ -29,25 +29,13 @@
   image: cuvva.svg
   tagline: Get insured for an hour (or more) on a friend's car
 
-- name: Canopy
-  url: https://findyourcanopy.com/
-  tagline: Deposit free renting with Canopy
-
 - name: Wrisk
   url: http://www.wrisk.co/
   tagline: The only insurer to offer people-centred cover that truly suits the connected generation   
 
-- name: The Floow
-  url: http://www.thefloow.com/
-  tagline: The world’s most advanced telematic systems to make vehicle insurance cheaper
-
 - name: Brolly
   url: https://www.heybrolly.com/
   tagline: Manage all your insurance policies in one place
-
-- name: CoVi Analytics
-  url: http://www.covianalytics.com/
-  tagline: Developing tools to make regulatory compliance a doddle
 
 - name: Inspool
   url: http://inspool.com/
