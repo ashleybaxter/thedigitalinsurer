@@ -1,24 +1,31 @@
 - name: With Jack
   url: https://withjack.co.uk
   image: jack.png
-  tagline: Business insurance on a first-name basis
+  tagline: Be a confident freelancer
 
 - name: Laka
   url: https://laka.co.uk/
   tagline: Bicycle Insurance that’s unlike anything you have seen before 
 
+- name: Fizzy
+  url: https://fizzy.axa/en-gb/
+  tagline: Your flight is 2h late? Get your money without claiming. 
+
+- name: Anorak
+  url: https://www.anorak.life/
+  tagline: A smart way to get life insurance 
+
 - name: RightIndem
   url: https://rightindem.com
   tagline: Insurance claims software. Claims made simple  
 
-- name: In my Bag
+- name: In my Bag (Closed)
   url: https://inmybag.co/
   tagline: The emergency service for mobile people
 
 - name: Flock
   url: http://www.flockcover.com/
   tagline: Pay-as-you-fly insurance for drones
-
 
 - name: By Miles
   url: http://www.bymiles.co.uk/
@@ -37,6 +44,10 @@
   url: https://www.heybrolly.com/
   tagline: Manage all your insurance policies in one place
 
+- name: YuLife
+  url: https://www.yulife.com/
+  tagline: Get a happier, healthier and more productive team, with zero hassle
+
 - name: Inspool
   url: http://inspool.com/
   tagline: Car insurance that unites and rewards polite drivers
@@ -44,6 +55,10 @@
 - name: Bought By Many
   url: https://boughtbymany.com/
   tagline: Insurance made social
+
+- name: Honcho
+  url: https://gethoncho.com/
+  tagline;: Honcho is the world's first reverse auction marketplace and our solution to saving you time and money on your insurance
 
 - name: Quan Template
   url: https://www.quantemplate.com/
