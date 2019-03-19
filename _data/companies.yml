@@ -3,13 +3,17 @@
   image: jack.png
   tagline: Be a confident freelancer
 
+- name: Pluto
+  url: https://pluto.insure/
+  tagline: Travel insurance for people who don’t like insurance.  
+
 - name: Laka
   url: https://laka.co.uk/
   tagline: Bicycle Insurance that’s unlike anything you have seen before 
 
 - name: Fizzy
   url: https://fizzy.axa/en-gb/
-  tagline: Your flight is 2h late? Get your money without claiming. 
+  tagline: Your flight is 2h late? Get your money without claiming
 
 - name: Anorak
   url: https://www.anorak.life/
